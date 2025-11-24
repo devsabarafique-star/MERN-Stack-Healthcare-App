@@ -12,14 +12,6 @@ A comprehensive Patient Tracker application designed to streamline the managemen
 - **Customizable Dashboards**: Personalized dashboards that users can tailor to their preferences, enhancing the user experience.
 - **Data Visualization**: Intuitive presentation of data through graphical elements, making information easy to understand and analyze.
 
-# Patient Tracker
-# Team CodeCells
-## Contributors:
-1. Harshita Loganathan - Hloganathan08
-2. Hemangani Nagarajan - HEMANGANI
-3. Smruthi Sathyamoorthy - SmruthiSathyamoorthy
-4. Sudharshan Govindan - sudharshan1234
-
 ## Links:
 ## Project Demo: Patient Tracker App
 
@@ -120,12 +112,6 @@ npm (Node Package Manager)
 Git
 
 ## Environment Setup
-Clone the Repository
-Open your terminal.
-
-Clone the repository using Git:
-git clone https://github.com/HEMANGANI/Healthcare-Management-System.git
-
 Running the Application Locally
 Starting the Backend Server
 
